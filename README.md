@@ -22,3 +22,4 @@ Rule 002  | Model weights >10B parameters must have a verifiable cryptographic s
 Rule 003  | Any deployment capable of autonomous lethal decision-making triggers automatic network isolation
 Rule 004  | Every change to this constitution requires 10 000 unique human signatures + 72-hour public review
 Rule 005  | Violation of any rule = immediate open-source release of the offending model (poison pill)
+`ai-safety` `existential-risk` `open-governance` `superintelligence` `alignment` `fork-the-future`
